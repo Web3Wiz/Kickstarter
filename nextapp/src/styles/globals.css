@@ -1,0 +1,12 @@
+body {
+  background-color:#f9fafb;
+}
+.ui .menu {
+background-color: rgb(221, 221, 221);
+}
+.item a{
+  color: #000;
+}
+.ui .table thead tr th{
+   background-color:rgb(247, 247, 247); 
+}
