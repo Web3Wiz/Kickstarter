@@ -1,5 +1,5 @@
 import { web3 } from "./web3";
-import compiledFactory from "../../../hardhat/build/CampaignFactory.json";
+import compiledFactory from "../../hardhat/build/CampaignFactory.json";
 
 const instance = new web3.eth.Contract(
   compiledFactory.abi,
