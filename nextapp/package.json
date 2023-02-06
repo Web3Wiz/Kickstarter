@@ -1,7 +1,7 @@
 {
   "name": "nextapp",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "/pages/index.js",
   "private": true,
   "scripts": {
     "dev": "next dev",
